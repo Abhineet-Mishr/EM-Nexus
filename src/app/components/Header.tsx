@@ -6,8 +6,8 @@ const LOGOS = {
   logo2: "https://res.cloudinary.com/dzxvmdsew/image/upload/v1781933147/All_India_Institute_of_Medical_Sciences__Delhi_czhtvb.png",
   logo2Link: "https://aiims.edu",
 
-  logo3: "https://your-cloudinary-url.com/logo3.png",
-  logo3Link: "https://example.com",
+  logo3: "https://res.cloudinary.com/dzxvmdsew/image/upload/v1782157768/ChatGPT_Image_Jun_23_2026_12_24_59_AM_dxcqd0.png",
+  logo3Link: "https://synapse.abhionics.com",
 };
 
 export function Header() {
